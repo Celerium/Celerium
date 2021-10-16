@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Celerium.org" width="22px" src="https://cdn-icons-png.flaticon.com/512/718/718110.png" />][website]
+[<img align="left" alt="Celerium.org" width="22px" src="https://cdn-icons-png.flaticon.com/512/718/718110.png" />][websitecontact]
 [<img align="left" alt="Celerium.org" width="22px" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" />][reddit]
 
 <br>
@@ -41,4 +41,5 @@
 
 
 [website]: https://celerium.org
+[websitecontact]: https://celerium.org/#/contact
 [Reddit]:  https://www.reddit.com/user/CeleriumIO
