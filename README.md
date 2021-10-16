@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Celerium.org" width="22px" src="https://cdn4.iconfinder.com/data/icons/web-pages-seo/512/33-512.png" />][website]
+[<img align="left" alt="Celerium.org" width="22px" src="https://cdn-icons-png.flaticon.com/512/718/718110.png" />][website]
 [<img align="left" alt="Celerium.org" width="22px" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" />][reddit]
 
 <br>
