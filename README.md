@@ -7,8 +7,6 @@
 - 👯 I’m looking to share my ideas to help others grow
 - ⚡ Learn more about me at https://celerium.org/#/about
 
-<br>
-
 ### Connect with me:
 
 [<img align="left" alt="Celerium.org" width="22px" src="https://cdn4.iconfinder.com/data/icons/web-pages-seo/512/33-512.png" />][website]
