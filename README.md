@@ -32,6 +32,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerShell: Modern HTML Reports](https://celerium.org/powershell-modern-html-reports/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-modern-html-reports)
+- [How To: Install OCS on Ubuntu 21.04](https://celerium.org/how-to-install-ocs-on-ubuntu-21-04/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-install-ocs-on-ubuntu-21-04)
+- [How To: Install OCS on CentOS 7](https://celerium.org/how-to-install-ocs-on-centos-7/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-install-ocs-on-centos-7)
+- [How To: Install GLPI on Ubuntu 21.04](https://celerium.org/how-to-install-glpi-on-ubuntu-21-04/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-install-glpi-on-ubuntu-21-04)
+- [How To: Install GLPI on CentOS 7](https://celerium.org/how-to-install-glpi-on-centos-7/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-install-glpi-on-centos-7)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://celerium.org)
