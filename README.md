@@ -30,11 +30,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ping command not found – Ubuntu](https://celerium.org/ping-command-not-found-ubuntu/?utm_source=rss&utm_medium=rss&utm_campaign=ping-command-not-found-ubuntu)
+- [PowerShell: Use Active Directory SPNs to find domain services](https://celerium.org/powershell-use-active-directory-spns-to-find-domain-services/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-use-active-directory-spns-to-find-domain-services)
+- [How To: Install SFTP on Ubuntu 22.04](https://celerium.org/install-sftp-on-ubuntu/?utm_source=rss&utm_medium=rss&utm_campaign=install-sftp-on-ubuntu)
 - [PowerShell: Datto PowerShell Wrapper](https://celerium.org/powershell-datto-powershell-wrapper/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-datto-powershell-wrapper)
 - [PowerShell: RocketCyber PowerShell Wrapper](https://celerium.org/powershell-rocketcyber-api/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-rocketcyber-api)
-- [PowerShell: MyITProcess PowerShell Wrapper](https://celerium.org/powershell-myitprocess-reporting-api/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-myitprocess-reporting-api)
-- [PowerShell: Modern HTML Reports](https://celerium.org/powershell-modern-html-reports/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-modern-html-reports)
-- [How To: Install OCS on Ubuntu 21.04](https://celerium.org/how-to-install-ocs-on-ubuntu-21-04/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-install-ocs-on-ubuntu-21-04)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://celerium.org)
