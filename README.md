@@ -30,11 +30,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerShell: Send to Teams Channel &lpar;Pokemon&rpar;](https://celerium.org/powershell-send-to-teams-channel-pokemon/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-send-to-teams-channel-pokemon)
+- [PowerShell: Send to Teams Channel &lpar;Dog Facts\Images&rpar;](https://celerium.org/powershell-send-to-teams-channel-dog-factsimages/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-send-to-teams-channel-dog-factsimages)
+- [PowerShell: Send to Teams Channel &lpar;Cat Facts\Images&rpar;](https://celerium.org/powershell-send-to-teams-channel-cat-factsimages/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-send-to-teams-channel-cat-factsimages)
+- [PowerShell: Send to Teams Channel &lpar;DadJoke&rpar;](https://celerium.org/powershell-send-to-teams-channel-dadjoke/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-send-to-teams-channel-dadjoke)
 - [Ping command not found – Ubuntu](https://celerium.org/ping-command-not-found-ubuntu/?utm_source=rss&utm_medium=rss&utm_campaign=ping-command-not-found-ubuntu)
-- [PowerShell: Use Active Directory SPNs to find domain services](https://celerium.org/powershell-use-active-directory-spns-to-find-domain-services/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-use-active-directory-spns-to-find-domain-services)
-- [How To: Install SFTP on Ubuntu 22.04](https://celerium.org/install-sftp-on-ubuntu/?utm_source=rss&utm_medium=rss&utm_campaign=install-sftp-on-ubuntu)
-- [PowerShell: Datto PowerShell Wrapper](https://celerium.org/powershell-datto-powershell-wrapper/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-datto-powershell-wrapper)
-- [PowerShell: RocketCyber PowerShell Wrapper](https://celerium.org/powershell-rocketcyber-api/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-rocketcyber-api)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://celerium.org)
