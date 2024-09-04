@@ -30,11 +30,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [PowerShell: SentinelOne PowerShell Wrapper](https://celerium.org/powershell-sentinelone-powershell-wrapper/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-sentinelone-powershell-wrapper)
-- [PowerShell: PokeDex PowerShell Wrapper](https://celerium.org/powershell-pokedex-powershell-wrapper/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-pokedex-powershell-wrapper)
-- [PowerShell: FanartTV PowerShell Wrapper](https://celerium.org/powershell-fanarttv-powershell-wrapper/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-fanarttv-powershell-wrapper)
-- [PowerShell: Send to Teams Channel &lpar;Pokemon&rpar;](https://celerium.org/powershell-send-to-teams-channel-pokemon/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-send-to-teams-channel-pokemon)
-- [PowerShell: Send to Teams Channel &lpar;Dog Facts\Images&rpar;](https://celerium.org/powershell-send-to-teams-channel-dog-factsimages/?utm_source=rss&utm_medium=rss&utm_campaign=powershell-send-to-teams-channel-dog-factsimages)
+- [PowerShell: SentinelOne PowerShell Wrapper](https://celerium.org/powershell-sentinelone-powershell-wrapper/)
+- [PowerShell: PokeDex PowerShell Wrapper](https://celerium.org/powershell-pokedex-powershell-wrapper/)
+- [PowerShell: FanartTV PowerShell Wrapper](https://celerium.org/powershell-fanarttv-powershell-wrapper/)
+- [PowerShell: Send to Teams Channel &lpar;Pokemon&rpar;](https://celerium.org/powershell-send-to-teams-channel-pokemon/)
+- [PowerShell: Send to Teams Channel &lpar;Dog Facts\Images&rpar;](https://celerium.org/powershell-send-to-teams-channel-dog-factsimages/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://celerium.org)
